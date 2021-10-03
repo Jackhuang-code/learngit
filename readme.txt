@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 asdf
 Git tracks changes.
 branch
+Creating a new branch is quick or simple.
